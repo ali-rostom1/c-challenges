@@ -5,7 +5,7 @@ int main(){
     float temp;
     printf("saisir la temperature en celsius: ");
     scanf("%f",&temp);
-    printf("la temperature en kelvin est: %.2f",temp+273.15);
+    printf("la temperature en kelvin est: %.2f",temp + 273.15);
 
 
 
